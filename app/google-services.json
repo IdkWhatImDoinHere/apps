@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446555661748",
+    "firebase_url": "https://gomeds-c36f5.firebaseio.com",
+    "project_id": "gomeds-c36f5",
+    "storage_bucket": "gomeds-c36f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446555661748:android:eb675e01f64f2a314b3ee1",
+        "android_client_info": {
+          "package_name": "com.example.gomeds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446555661748-2l2597hj64s8i9scr44tgifujbo5nsh3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gomeds",
+            "certificate_hash": "5492e01e24e1aecd8cb5e5720b855fa09d813fa3"
+          }
+        },
+        {
+          "client_id": "446555661748-mecirh4h7elepugur5cpcu4821c68g24.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpaWAlPhluXiSihTyMqf1oKbjYP40BRVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446555661748-mecirh4h7elepugur5cpcu4821c68g24.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

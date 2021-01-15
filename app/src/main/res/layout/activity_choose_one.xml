@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/back3"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    tools:context=".ChooseOne">
+
+    <LinearLayout
+        android:layout_width="300dp"
+        android:layout_height="370dp"
+        android:background="@drawable/backgroundshape"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.498">
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="54dp"
+            android:fontFamily="@font/acme"
+            android:gravity="center"
+            android:text="Connect As"
+            android:textColor="@color/teal_700"
+            android:textSize="36sp" />
+
+        <Button
+            android:id="@+id/customer"
+            android:layout_width="275dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/bluish"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:text="Customer"
+            android:textColor="#FDFDFD"
+            android:textSize="24sp" />
+
+        android:background="@drawable/bluish"
+        android:text="Button" />
+
+        <Button
+            android:id="@+id/phar"
+            android:layout_width="275dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/green"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:text="Pharmacy"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp" />
+
+        <Button
+            android:id="@+id/delivery"
+            android:layout_width="275dp"
+            android:layout_height="48dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:background="@drawable/red"
+            android:fontFamily="sans-serif-condensed-light"
+            android:gravity="center"
+            android:text="Delivery Person"
+            android:textColor="#FFFFFF"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="90dp"
+            android:fontFamily="@font/amarante"
+            android:gravity="center"
+            android:text="Super Fast Delivery!"
+            android:textColor="#125C0C"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

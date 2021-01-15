@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">GoMeds</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string-array name="State">
+        <item>Jharkhand</item>
+        <item>Madhya Pradesh</item>
+    </string-array>
+
+    <string-array name="City">
+        <item>Ranchi</item>
+        <item>Jamshedpur</item>
+    </string-array>
+    <string-array name="shipper">
+        <item>Shipper 1</item>
+        <item>Shipper 2</item>
+    </string-array>
+
+    <string-array name="Medicine">
+        <item>Amoxicillin</item>
+        <item>Azithromycin</item>
+        <item>Albuterol</item>
+        <item>Cefdinir</item>
+        <item>Cephalexin</item>
+        <item>Fluticasone</item>
+        <item>Prednisolone Sodium Phosphate</item>
+        <item>Ibuprofen</item>
+        <item>Singulair (Montelukast Sodium)</item>
+        <item>Trimethoprim/Sulfamethoxazole</item>
+        <item>Tylenol #3</item>
+        <item>Vicodin</item>
+        <item>Mupirocin</item>
+        <item>Methylphenidate</item>
+        <item>Mometasone</item>
+        <item>Triamcinolone</item>
+        <item>Prednisone</item>
+        <item>Sodium Fluoride</item>
+        <item>Multivitamins With Fluoride</item>
+        <item>Amphetamine</item>
+        <item>Hydrocortisone</item>
+        <item>Budesonide</item>
+        <item>Ciprofloxacin</item>
+        <item>Promethazine</item>
+        <item>Prednisolone</item>
+        <item>Antipyrine</item>
+        <item>PCM</item>
+
+    </string-array>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
